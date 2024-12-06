@@ -14,7 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Thermal Profiles -->
     <string name="thermal_title">Profile termiczne</string>
     <string name="thermal_summary">Dostosuj profile termiczne dla poszczególnych aplikacji dla optymalnej wydajności</string>
@@ -87,7 +87,7 @@
     <string name="refresh_rate_tile_title">Częstotliwość odświeżania</string>
     <string name="refresh_title">Częstotliwość odświeżania aplikacji</string>
     <string name="refresh_summary">Dostosuj maksymalną częstotliwość odświeżania dla każdej aplikacji</string>
-    <string name="refresh_default">Domyślna</string>
+    <string name="refresh_default">Domyślna</stracing>
     <string name="refresh_low">Niska (30Hz)</string>
     <string name="refresh_moderate">Średnia (50Hz)</string>
     <string name="refresh_standard">Standardowa (60Hz)</string>
