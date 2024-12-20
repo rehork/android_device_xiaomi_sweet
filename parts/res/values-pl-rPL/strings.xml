@@ -18,7 +18,7 @@
     <!-- Thermal Profiles -->
     <string name="thermal_title">Profile termiczne</string>
     <string name="thermal_summary">Dostosuj profile termiczne dla poszczególnych aplikacji dla optymalnej wydajności</string>
-    <string name="thermal_default">Domyślne</string>
+    <string name="thermal_default">Domyślnie</string>
     <string name="thermal_benchmark">Wydajność</string>
     <string name="thermal_browser">Przeglądarka</string>
     <string name="thermal_camera">Aparat</string>
